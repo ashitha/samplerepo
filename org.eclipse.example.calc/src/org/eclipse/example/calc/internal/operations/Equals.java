@@ -22,4 +22,5 @@ public class Equals extends AbstractOperation implements Operation {
 
 	not so equal now, are we?
 
+	You know, you are right
 }
