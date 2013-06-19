@@ -20,4 +20,6 @@ public class Equals extends AbstractOperation implements Operation {
 		return "=";
 	}
 
+	not so equal now, are we?
+
 }
